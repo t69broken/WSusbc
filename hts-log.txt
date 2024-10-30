@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Oct 2024 19:46:59 at wsusbc.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" wsusbc.org -O1 "D:\WSUSBC website\wsusbc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:56	Error: 	"Forbidden" (403) at link wsusbc.org/xmlrpc.php?rsd (from wsusbc.org/)
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=712
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=712 to http://wsusbc.org/board-members/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=687
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=687 to http://wsusbc.org/wa-assoc-contacts/
+19:50:45	Error: 	"Not Found" (404) at link wsusbc.org/wa-assoc-contacts/lyndasouthard@snohomishusbc.org (from wsusbc.org/wa-assoc-contacts/)
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1851
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1851 to http://wsusbc.org/forms/
+19:50:45	Error: 	"Not Found" (404) at link wsusbc.org/wp-content/uploads/2018/05/bftc-logo-01-300x175.jpg (from wsusbc.org/forms/)
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=655
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=655 to http://wsusbc.org/hall-of-fame/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1711
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1711 to http://wsusbc.org/member-emerita/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1725
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1725 to http://wsusbc.org/rules/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1419
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1419 to http://wsusbc.org/calendar/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1864
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1864 to http://wsusbc.org/annual-meeting/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1874
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1874 to http://wsusbc.org/tournaments/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1878
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1878 to http://wsusbc.org/mixed-tournament/
+19:50:45	Error: 	"Not Found" (404) at link wsusbc.org/wp-content/uploads/2018/05/BVL2017-300x148.jpg (from wsusbc.org/mixed-tournament/)
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1902
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1902 to http://wsusbc.org/open-championship-tournament/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1889
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1889 to http://wsusbc.org/pepsi-championships/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1882
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1882 to http://wsusbc.org/queens-princess-tournament/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1869
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1869 to http://wsusbc.org/senior-tournament/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1897
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1897 to http://wsusbc.org/womens-championship-tournament/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=1893
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=1893 to http://wsusbc.org/youth-state-championships/
+19:50:45	Warning: 	Moved Permanently for wsusbc.org/?p=2185
+19:50:45	Warning: 	File has moved from wsusbc.org/?p=2185 to http://wsusbc.org/youth/
+19:52:08	Error: 	"Not Found" (404) at link wsusbc.org/wp-content/uploads/2021/10/WSUSBC-Form-10_Scholarship-Application-2022-2.docx (from wsusbc.org/youth/)
+19:52:08	Error: 	"Not Found" (404) at link wsusbc.org/wp-content/uploads/2018/10/USBCScholarshipsGrantsFlyer.pdf (from wsusbc.org/youth/)
+19:52:08	Warning: 	Moved Permanently for wsusbc.org/?p=3545
+19:52:08	Warning: 	File has moved from wsusbc.org/?p=3545 to http://wsusbc.org/scholarship/
+19:52:08	Warning: 	Moved Permanently for wsusbc.org/?p=668
+19:52:08	Warning: 	File has moved from wsusbc.org/?p=668 to http://wsusbc.org/active-wa-coaches/
+19:52:08	Warning: 	Moved Permanently for wsusbc.org/?p=3689
+19:52:08	Warning: 	File has moved from wsusbc.org/?p=3689 to http://wsusbc.org/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 9 seconds : 164 links scanned, 137 files written (6890768 bytes overall) [6223887 bytes received at 20142 bytes/sec], 1167463 bytes transferred using HTTP compression in 87 files, ratio 22%, 1.0 requests per connection
+(6 errors, 40 warnings, 0 messages)
